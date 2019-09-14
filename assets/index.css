@@ -1,0 +1,13 @@
+u {
+    text-decoration: underline;
+}
+.bg-meme-gradient{
+    background: rgb(255,223,223);
+    background: linear-gradient(170deg, rgba(255,223,223,1) 0%, rgba(232,253,245,1) 100%); 
+}
+.custom-pink{
+    color:#FFB3B3;
+}
+.custom-pink--navbar:hover{
+    color: #F99C9C;
+}
